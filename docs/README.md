@@ -1,3 +1,5 @@
 # SUNLAB
 ---
-This is the main landing page!
+Please visit https://sunlab.uga.edu/ as we work to update this page.
+
+Thank you
